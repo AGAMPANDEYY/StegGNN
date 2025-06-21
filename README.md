@@ -37,9 +37,9 @@ data/
 ```
 
 Modify paths in:
-
+```bash 
 configs/steggnn.yaml
-
+```
 3. Training
    
 ```bash
