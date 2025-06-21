@@ -60,6 +60,7 @@ Outputs PSNR, SSIM, LPIPS, and steganalysis AUC metrics.
 ## Experiments
 
 <img src="https://github.com/AGAMPANDEYY/StegGNN/blob/main/assets/comparison.png" >
+
 ### Cover/Stego Image Quality (DIV2K)
 
 
