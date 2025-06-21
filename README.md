@@ -169,3 +169,11 @@ Please cite the paper if you use this code:
 ## Contact
 
 For questions, please raise an issue or contact the authors via email or raise GitHub Issues.
+
+Authors:
+
+- [Abhinav Kumar]()
+- [Shorya Singhal]()
+- [Agam Pandey]()
+- [Tushar]()
+- [Sukrit Jindal]()
