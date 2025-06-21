@@ -1,0 +1,58 @@
+# 🔒 Python-specific ignores
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyd
+*.pyo
+*.so
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# 🔥 Torch/Vision ignores
+*.pth
+*.pt
+*.bin
+*.onnx
+
+# 📁 Directory ignores (except keep files)
+checkpoints/*
+!checkpoints/.gitkeep
+data/
+!data/__init__.py
+logs/
+
+# 💻 OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 🛠 Development environment files
+.vscode/
+.idea/
+*.swp
+*.swo
+.env
+venv/
+env/
+
+# 📊 Data files (prevent large file commits)
+*.jpg
+*.jpeg
+*.png
+*.tiff
+*.h5
+*.zip
+*.tar.gz
+
+# 📈 Training logs & outputs
+*.log
+*.csv
+*.txt
+tensorboard/
+wandb/
+
+# 🚨 Sensitive files
+secrets.ini
+credentials.json
+*.key
