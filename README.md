@@ -55,7 +55,7 @@ python evaluate.py \
 
 Outputs PSNR, SSIM, LPIPS, and steganalysis AUC metrics.
 
-## Directory
+----
 
 ## Experiments
 
@@ -98,6 +98,7 @@ Outputs PSNR, SSIM, LPIPS, and steganalysis AUC metrics.
 
 Refer to the paper for full experimental curves.
 
+----
 
 ## Dataset
 
@@ -130,6 +131,8 @@ data/
 
 Ensure that all datasets are resized or preprocessed to 256×256 resolution before training or evaluation.
 
+----
+
 ## Acknowledgment 
 
 This repository builds upon several foundational works in deep image steganography and graph neural networks.
@@ -146,6 +149,7 @@ We also thank the authors of [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/),
 
 This implementation was developed for academic research purposes only.
 
+----
 
 ## Citations
 
