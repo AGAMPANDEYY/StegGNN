@@ -60,6 +60,10 @@ Outputs PSNR, SSIM, LPIPS, and steganalysis AUC metrics.
 ## Experiments
 ### Cover/Stego Image Quality (DIV2K)
 
+
+<div align="center">
+
+
 | Method   | PSNR (dB) | SSIM | LPIPS |
 |----------|-----------|------|--------|
 | HiDDeN   | 28.45     | 0.93 | 0.13   |
@@ -68,7 +72,12 @@ Outputs PSNR, SSIM, LPIPS, and steganalysis AUC metrics.
 | HiNet    | 42.89     | 0.99 | 0.00   |
 | **StegGNN** | **41.65** | **0.98** | **0.00** |
 
+</div>
+
 ### Secret Image Reconstruction Quality (DIV2K)
+
+
+<div align="center">
 
 | Method   | PSNR (dB) | SSIM | LPIPS |
 |----------|-----------|------|--------|
@@ -77,6 +86,8 @@ Outputs PSNR, SSIM, LPIPS, and steganalysis AUC metrics.
 | UDH      | 33.30     | 0.94 | 0.04   |
 | HiNet    | 31.27     | 0.96 | 0.00   |
 | **StegGNN** | **27.64** | **0.87** | **0.13** |
+
+</div>
 
 ### Steganalysis Resistance
 
