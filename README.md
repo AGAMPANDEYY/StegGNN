@@ -1,4 +1,4 @@
-# StegoGNN
+# StegGNN
 
 This is the repository for the paper titled [StegGNN: Learning Graphical Representation for Image Steganography](https://openreview.net/forum?id=UpCzCC4hCn)
 
